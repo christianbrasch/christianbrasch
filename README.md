@@ -1,5 +1,6 @@
 # Hi there! I'm Christian. 
 <img src="https://c.tenor.com/eeyZsVwZScsAAAAM/anime-wave.gif" alt="Hello! :)" width="160" height="120">
+
 ### I am a 16 year old Content Creator who is using Github to explore HTML, CSS, JS and more!
 I Welcome you to my Github Profile! I add random projects and stuff that I make here!
 Some things I make here are serious, and some that I make aren't! :)
