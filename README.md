@@ -5,7 +5,7 @@
 I Welcome you to my Github Profile! I add random projects and stuff that I make here!
 Some things I make here are serious, and some that I make aren't! :)
 
-Here are some repositories that I have made that are important to me!
+## Here are some repositories that I have made that are important to me! ❤️
 
 ### i hate it here.
 As I mentioned, some of my projects focus on serious topics. This is (definitely) one of them.
