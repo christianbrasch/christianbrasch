@@ -10,7 +10,7 @@ Some things I make here are serious, and some that I make aren't! :)
 ### i hate it here.
 As I mentioned, some of my projects focus on serious topics. This is (definitely) one of them.
 i hate it here is a webpage created to make hotline numbers and suicide prevention resources more accessible.
-<a href="https://github.com/ihith/ihih">Click me to visit the ihih webpage.</a>
+<a href="https://ihith.github.io/ihih/">Click me to visit the ihih webpage.</a>
 
 <a href="https://github.com/ihith">I also put this repository into an organization, because it just made more sense and it also helps people find it easier!</a>
 
