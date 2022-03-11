@@ -15,7 +15,7 @@ i hate it here is a webpage created to make hotline numbers and suicide preventi
 <a href="https://github.com/ihith">I also put this repository into an organization, because it just made more sense and it also helps people find it easier!</a>
 
 ### Christian's Photos
-This is a webpage for my other thing i like to do once in a long while~ and that's taking photos. <a href="https://christianbrasch.github.io/christianspics/">You can check that out by clicking Here.</a>
+This project has been shutdown due to a requested removal by Facebook. I did not receive a reason why I have been requested to remove it, but I will abide with them so I can keep my account active.
 
 #### (Outdated) Christian's Website
 This webpage is not receiving updates anymore, but you can still check it out <a href="https://christianbrasch.github.io/site/">(by clicking here!)</a>. Links and pages may be outdated or incorrect, so proceed with caution!
