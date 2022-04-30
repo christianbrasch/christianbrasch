@@ -7,10 +7,10 @@ Some things I make here are serious, and some that I make aren't! :)
 
 ## Here are some repositories that I have made that are important to me! ❤️
 
-### i hate it here.
+### never alone/nvralone
 As I mentioned, some of my projects focus on serious topics. This is (definitely) one of them.
-i hate it here is a webpage created to make hotline numbers and suicide prevention resources more accessible.
-<a href="https://ihith.github.io/ihih/">Click me to visit the ihih webpage.</a>
+never alone is a webpage dedicated to making hotline numbers and suicide prevention resources more accessible and faster to reach on slow connections.
+<a href="https://nvralone.github.io/site/">Click me to visit the ihih webpage.</a>
 
 <a href="https://github.com/ihith">I also put this repository into an organization, because it just made more sense and it also helps people find it easier!</a>
 
