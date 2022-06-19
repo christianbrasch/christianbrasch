@@ -12,6 +12,6 @@ As I mentioned, some of my projects focus on serious topics. This is (definitely
 never alone is a webpage dedicated to making hotline numbers and suicide prevention resources more accessible and faster to reach on slow connections.
 <a href="https://nvralone.github.io/site/">Click me to visit the never alone webpage.</a>
 
-<a href="https://github.com/ihith">I also put this repository into an organization, because it just made more sense and it also helps people find it easier!</a>
+<a href="https://github.com/nvralone">I also put this repository into an organization, because it just made more sense and it also helps people find it easier!</a>
 
 ### more to come soon?
